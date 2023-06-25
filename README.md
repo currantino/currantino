@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, here is my [CV](https://drive.google.com/file/d/1Z6uIIPfERefJ8CXyk4l0L5jLHPLpsCVO/view?usp=share_link) 👋
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
