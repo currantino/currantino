@@ -11,7 +11,7 @@
   <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" title="NeoVim" **alt="NeoVim" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python 3" **alt="Python 3" width="40" height="40"/>
         </div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=currantino&hide=jupyter%20notebook,lua,html&layout=donut-vertical"/>
+<!--       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=currantino&hide=jupyter%20notebook,lua,html&layout=donut-vertical"/> -->
 <!--             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=currantino&hide=jupyter%20notebook,lua,html&layout=donut-vertical"/> -->
 
 
